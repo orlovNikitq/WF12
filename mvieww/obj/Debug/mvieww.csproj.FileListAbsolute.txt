@@ -1,0 +1,15 @@
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\bin\Debug\mvieww.exe.config
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\bin\Debug\mvieww.exe
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\bin\Debug\mvieww.pdb
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.csproj.AssemblyReference.cache
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\MainWindow.g.cs
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\App.g.cs
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww_MarkupCompile.cache
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww_MarkupCompile.lref
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\MainWindow.baml
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.g.resources
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.Properties.Resources.resources
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.csproj.GenerateResource.cache
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.exe
+C:\Users\zunderz\Documents\projc#\mvieww\mvieww\obj\Debug\mvieww.pdb
